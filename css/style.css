@@ -10,13 +10,10 @@ img {
   width: 500px;
   padding: 20px;
   margin: 20px;
-  background color: mistyrose;
+  background-color: mistyrose;
 }
 
 footer {
   position:fixed;
   left: 50px;
-  right: 50px;
-  top: 50px;
-  bottom: 50px;
 }
