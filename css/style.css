@@ -1,0 +1,22 @@
+@charset "UTF-8"
+
+img {
+  position:relative;
+  left: 500px;
+}
+
+.monday {
+  border: 1px solid black;
+  width: 500px;
+  padding: 20px;
+  margin: 20px;
+  background color: mistyrose;
+}
+
+footer {
+  position:fixed;
+  left: 50px;
+  right: 50px;
+  top: 50px;
+  bottom: 50px;
+}
